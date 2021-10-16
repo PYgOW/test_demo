@@ -3,7 +3,12 @@ Amma Nannagaru
 Amma I love you amma
 Nannagaru I love you
 With your blessings i am really enjoying my life
+<<<<<<< HEAD
 I love you I love you I love you
 I love you so much
 
 
+=======
+It is no nice of you and thanks for the life 
+kada
+>>>>>>> c06821ede4be9c8348311376f7963d33db5dfbe3
